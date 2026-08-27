@@ -117,6 +117,9 @@ University of Kashmir
 ---
 
 ## 🎯 Current Focus
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=750&lines=HR+Analytics;People+Analytics;Workforce+Analytics;HR+Operations;Business+Intelligence;Predictive+Workforce+Modeling;Data-Driven+HR+Decision-Making" alt="Current Focus Typing SVG" />
+</p>
 
 I am currently focused on strengthening my expertise in:
 
