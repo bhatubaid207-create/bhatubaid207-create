@@ -156,15 +156,46 @@ I combine HR domain knowledge with analytics and business intelligence tools to 
 </table>
 
 
-## 🎓 Education
+<h2>🎓 Education</h2>
 
-**MBA — Human Resource Management & Finance**  
-Central University of Jammu
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Bachelor of Business Administration (BBA)**  
-University of Kashmir
+<h3>🎓 Master of Business Administration</h3>
 
----
+<b>Human Resource Management & Finance</b>
+
+<br><br>
+
+🏛️ Central University of Jammu
+
+<br><br>
+
+<b>Focus Areas</b><br>
+Human Resource Management • Finance • HR Analytics • Business Analytics
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📘 Bachelor of Business Administration</h3>
+
+<b>Business Administration</b>
+
+<br><br>
+
+🏛️ University of Kashmir
+
+<br><br>
+
+<b>Foundation</b><br>
+Management • Business Administration • Organizational Studies
+
+</td>
+</tr>
+</table>
+
 
 ## 🎯 Current Focus
 <p align="center">
