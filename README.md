@@ -235,14 +235,23 @@ Building practical projects that combine <b>HR domain knowledge</b>,
   </picture>
 </p>
 
-## 🤝 Connect With Me
+<h2>🤝 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/obaid-ayoub">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="mailto:bhatubaid207@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  Open to opportunities in <b>Human Resources, HR Analytics, People Analytics and Workforce Analytics</b>.
+  Open to opportunities in <b>Human Resources, HR Analytics, People Analytics, Workforce Analytics and Business Intelligence</b>.
 </p>
+
+<p align="center">
+  📍 J&K, India
+</p>
+
