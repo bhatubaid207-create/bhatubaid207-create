@@ -155,36 +155,6 @@ I combine HR domain knowledge with analytics and business intelligence tools to 
 </tr>
 </table>
 
-### 👥 HR Attrition Analytics — Power BI
-
-Interactive **People Analytics dashboard** exploring historical employee attrition across demographics, compensation, job roles, tenure and workforce factors.
-
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-000000?style=flat-square&logo=powerbi" />
-<img src="https://img.shields.io/badge/Power%20Query-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/People%20Analytics-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Data%20Visualization-000000?style=flat-square" />
-</p>
-
-➡️ [**Explore Project →**](https://github.com/bhatubaid207-create/HR-Attrition-Analytics-PowerBI)
-
----
-
-### 🛒 Madhav Ecommerce Sales — Power BI
-
-Interactive **Business Intelligence dashboard** analyzing sales, profitability, customers, product categories, payment behavior and regional performance.
-
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-000000?style=flat-square&logo=powerbi" />
-<img src="https://img.shields.io/badge/Sales%20Analytics-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Business%20Intelligence-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Data%20Visualization-000000?style=flat-square" />
-</p>
-
-➡️ [**Explore Project →**](https://github.com/bhatubaid207-create/Madhav-Ecommerce-Sales-PowerBI)
-
----
-
 
 ## 🎓 Education
 
