@@ -59,7 +59,9 @@ I combine HR domain knowledge with analytics and business intelligence tools to 
 <h2>🚀 Featured Projects</h2>
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
 <h3>🧠 IBM HR Analytics — Attrition Prediction & Workforce Risk</h3>
@@ -69,7 +71,7 @@ I combine HR domain knowledge with analytics and business intelligence tools to 
 </a>
 
 <p>
-  End-to-end <b>HR Analytics + Machine Learning</b> project combining Python, predictive modeling, workforce risk scoring, and Power BI.
+End-to-end <b>HR Analytics + Machine Learning</b> project combining Python, predictive modeling, workforce risk scoring, and Power BI.
 </p>
 
 <p>
@@ -79,13 +81,18 @@ I combine HR domain knowledge with analytics and business intelligence tools to 
   <img src="https://img.shields.io/badge/HR%20Analytics-000000?style=flat-square" />
 </p>
 
-<p><b>ROC-AUC:</b> 0.803<br>
+<p>
+<b>ROC-AUC:</b> 0.803<br>
 <b>Attrition Recall:</b> 79%<br>
-<b>Employees Analyzed:</b> 1,470</p>
+<b>Employees Analyzed:</b> 1,470
+</p>
 
-<a href="https://github.com/bhatubaid207-create/IBM-HR-Analytics-Attrition-Prediction"><b>View Project →</b></a>
+<a href="https://github.com/bhatubaid207-create/IBM-HR-Analytics-Attrition-Prediction">
+<b>View Project →</b>
+</a>
 
 </td>
+
 
 <td width="50%" valign="top">
 
@@ -96,7 +103,7 @@ I combine HR domain knowledge with analytics and business intelligence tools to 
 </a>
 
 <p>
-  Interactive <b>People Analytics dashboard</b> exploring historical employee attrition across demographics, compensation, job roles, tenure, and workforce factors.
+Interactive <b>People Analytics dashboard</b> exploring historical employee attrition across demographics, compensation, job roles, tenure, and workforce factors.
 </p>
 
 <p>
@@ -106,12 +113,17 @@ I combine HR domain knowledge with analytics and business intelligence tools to 
   <img src="https://img.shields.io/badge/Data%20Visualization-000000?style=flat-square" />
 </p>
 
-<a href="https://github.com/bhatubaid207-create/HR-Attrition-Analytics-PowerBI"><b>View Project →</b></a>
+<a href="https://github.com/bhatubaid207-create/HR-Attrition-Analytics-PowerBI">
+<b>View Project →</b>
+</a>
 
 </td>
+
 </tr>
 
+
 <tr>
+
 <td width="50%" valign="top">
 
 <h3>🛒 Madhav Ecommerce Sales — Power BI</h3>
@@ -121,7 +133,7 @@ I combine HR domain knowledge with analytics and business intelligence tools to 
 </a>
 
 <p>
-  Interactive <b>Business Intelligence dashboard</b> analyzing sales, profitability, customer behavior, product categories, payment modes, and regional performance.
+Interactive <b>Business Intelligence dashboard</b> analyzing sales, profitability, customer behavior, product categories, payment modes, and regional performance.
 </p>
 
 <p>
@@ -131,30 +143,66 @@ I combine HR domain knowledge with analytics and business intelligence tools to 
   <img src="https://img.shields.io/badge/Data%20Visualization-000000?style=flat-square" />
 </p>
 
-<a href="https://github.com/bhatubaid207-create/Madhav-Ecommerce-Sales-PowerBI"><b>View Project →</b></a>
+<a href="https://github.com/bhatubaid207-create/Madhav-Ecommerce-Sales-PowerBI">
+<b>View Project →</b>
+</a>
 
 </td>
+
 
 <td width="50%" valign="top">
 
-<h3>📌 More Projects Coming</h3>
+<h3>🎓 Viksit Bharat @2047 — HR & Organizational Readiness</h3>
 
 <p>
-  I’m continuing to build practical projects in:
+Academic <b>HR research project</b> examining how HR practices, workforce capabilities, leadership, and change management influence organizational readiness for public-sector transformation.
 </p>
 
-<ul>
-  <li>HR Analytics</li>
-  <li>People Analytics</li>
-  <li>Power BI</li>
-  <li>Business Intelligence</li>
-  <li>Predictive Workforce Analytics</li>
-</ul>
+<p>
+  <img src="https://img.shields.io/badge/Strategic%20HRM-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/HR%20Research-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Change%20Management-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoft-excel" />
+</p>
+
+<p>
+<b>200 Structured Profiles</b><br>
+<b>Descriptive + Analytical Research</b><br>
+<b>HR Practices → Organizational Readiness</b>
+</p>
+
+<a href="https://github.com/bhatubaid207-create/Viksit-Bharat-HR-Organizational-Readiness">
+<b>View Research Project →</b>
+</a>
 
 </td>
-</tr>
-</table>
 
+</tr>
+
+
+<tr>
+
+<td colspan="2" valign="top">
+
+<h3 align="center">📌 More Projects Coming</h3>
+
+<p align="center">
+I’m continuing to build practical projects across:
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HR%20Analytics-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/People%20Analytics-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power%20BI-000000?style=flat-square&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Business%20Intelligence-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Predictive%20Workforce%20Analytics-000000?style=flat-square" />
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 <h2>🎓 Education</h2>
 
