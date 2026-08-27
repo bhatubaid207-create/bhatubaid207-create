@@ -197,22 +197,33 @@ Management • Business Administration • Organizational Studies
 </table>
 
 
-## 🎯 Current Focus
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=750&lines=HR+Analytics;People+Analytics;Workforce+Analytics;HR+Operations;Business+Intelligence;Predictive+Workforce+Modeling;Data-Driven+HR+Decision-Making" alt="Current Focus Typing SVG" />
+<h2>🎯 Current Focus</h2>
+
+<p>
+Currently strengthening my expertise at the intersection of
+<b>Human Resources, People Analytics and Business Intelligence</b>.
 </p>
 
-I am currently focused on strengthening my expertise in:
 
-- HR Analytics
-- People Analytics
-- Workforce Analytics
-- HR Operations
-- Business Intelligence
-- Predictive Workforce Modeling
-- Data-Driven HR Decision-Making
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/HR%20Analytics-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/People%20Analytics-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Workforce%20Analytics-000000?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/HR%20Operations-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Business%20Intelligence-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Predictive%20Analytics-000000?style=for-the-badge" />
+
+</p>
+
+<p align="center">
+Building practical projects that combine <b>HR domain knowledge</b>,
+<b>workforce data</b> and <b>analytics</b> to support better people decisions.
+</p>
+
 
 ## 🐍 Contribution Activity
 
