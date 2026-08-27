@@ -110,17 +110,6 @@ I am currently focused on strengthening my expertise in:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhatubaid207-create&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhatubaid207-create&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
