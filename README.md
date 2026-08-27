@@ -56,24 +56,104 @@ I combine HR domain knowledge with analytics and business intelligence tools to 
 
 ---
 
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
-### 🧠 IBM HR Analytics — Attrition Prediction & Workforce Risk
+<table>
+<tr>
+<td width="50%" valign="top">
 
-End-to-end **HR Analytics and Machine Learning** project for identifying employee attrition patterns and developing employee-level workforce risk scores.
+<h3>🧠 IBM HR Analytics — Attrition Prediction & Workforce Risk</h3>
+
+<a href="https://github.com/bhatubaid207-create/IBM-HR-Analytics-Attrition-Prediction">
+  <img src="https://raw.githubusercontent.com/bhatubaid207-create/IBM-HR-Analytics-Attrition-Prediction/main/images/dashboard_overview.png" width="100%" />
+</a>
 
 <p>
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python" />
-<img src="https://img.shields.io/badge/Machine%20Learning-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Power%20BI-000000?style=flat-square&logo=powerbi" />
-<img src="https://img.shields.io/badge/HR%20Analytics-000000?style=flat-square" />
+  End-to-end <b>HR Analytics + Machine Learning</b> project combining Python, predictive modeling, workforce risk scoring, and Power BI.
 </p>
 
-**ROC-AUC 0.803** • **79% Attrition Recall** • **1,470 Employees** • **Risk Segmentation**
+<p>
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power%20BI-000000?style=flat-square&logo=powerbi" />
+  <img src="https://img.shields.io/badge/HR%20Analytics-000000?style=flat-square" />
+</p>
 
-➡️ [**Explore Project →**](https://github.com/bhatubaid207-create/IBM-HR-Analytics-Attrition-Prediction)
+<p><b>ROC-AUC:</b> 0.803<br>
+<b>Attrition Recall:</b> 79%<br>
+<b>Employees Analyzed:</b> 1,470</p>
 
----
+<a href="https://github.com/bhatubaid207-create/IBM-HR-Analytics-Attrition-Prediction"><b>View Project →</b></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>👥 HR Attrition Analytics — Power BI</h3>
+
+<a href="https://github.com/bhatubaid207-create/HR-Attrition-Analytics-PowerBI">
+  <img src="https://raw.githubusercontent.com/bhatubaid207-create/HR-Attrition-Analytics-PowerBI/main/images/dashboard_overview.png" width="100%" />
+</a>
+
+<p>
+  Interactive <b>People Analytics dashboard</b> exploring historical employee attrition across demographics, compensation, job roles, tenure, and workforce factors.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-000000?style=flat-square&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Power%20Query-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/People%20Analytics-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-000000?style=flat-square" />
+</p>
+
+<a href="https://github.com/bhatubaid207-create/HR-Attrition-Analytics-PowerBI"><b>View Project →</b></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🛒 Madhav Ecommerce Sales — Power BI</h3>
+
+<a href="https://github.com/bhatubaid207-create/Madhav-Ecommerce-Sales-PowerBI">
+  <img src="https://raw.githubusercontent.com/bhatubaid207-create/Madhav-Ecommerce-Sales-PowerBI/main/images/dashboard_overview.png" width="100%" />
+</a>
+
+<p>
+  Interactive <b>Business Intelligence dashboard</b> analyzing sales, profitability, customer behavior, product categories, payment modes, and regional performance.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-000000?style=flat-square&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Sales%20Analytics-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Business%20Intelligence-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-000000?style=flat-square" />
+</p>
+
+<a href="https://github.com/bhatubaid207-create/Madhav-Ecommerce-Sales-PowerBI"><b>View Project →</b></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📌 More Projects Coming</h3>
+
+<p>
+  I’m continuing to build practical projects in:
+</p>
+
+<ul>
+  <li>HR Analytics</li>
+  <li>People Analytics</li>
+  <li>Power BI</li>
+  <li>Business Intelligence</li>
+  <li>Predictive Workforce Analytics</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 ### 👥 HR Attrition Analytics — Power BI
 
