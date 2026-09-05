@@ -134,6 +134,7 @@ across demographics, compensation, job roles, tenure, and workforce factors.
 
 </td>
 
+
 <td width="50%" valign="top">
 
 <h3>🏛️ Viksit Bharat @2047 — HR & Organizational Readiness</h3>
@@ -198,7 +199,49 @@ and regional performance.
 
 </td>
 
+
 <td width="50%" valign="top">
+
+<h3>📊 HR Workforce Analytics — Excel</h3>
+
+<a href="https://github.com/bhatubaid207-create/HR-Workforce-Analytics-Excel">
+  <img
+    src="https://raw.githubusercontent.com/bhatubaid207-create/HR-Workforce-Analytics-Excel/main/images/dashboard_overview.png"
+    width="100%"
+    alt="HR Workforce Analytics Excel Dashboard"
+  />
+</a>
+
+<p>
+End-to-end <b>HR Workforce Analytics solution in Microsoft Excel</b>
+analyzing 5,000 employee records across attrition, retention,
+compensation, tenure, satisfaction, performance, and workforce risk.
+</p>
+
+<p>
+Features an <b>interactive HR dashboard, dynamic workforce KPIs,
+attrition diagnostics, and predictive risk segmentation</b> designed
+to support evidence-based HR decision-making.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-000000?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/HR%20Analytics-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Workforce%20Analytics-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Predictive%20Risk-000000?style=flat-square" />
+</p>
+
+<a href="https://github.com/bhatubaid207-create/HR-Workforce-Analytics-Excel">
+  <b>View Project →</b>
+</a>
+
+</td>
+
+</tr>
+</table>
+<tr>
+
+<td colspan="2" valign="top">
 
 <h3>📌 More Projects Coming</h3>
 
@@ -217,7 +260,6 @@ I’m continuing to build practical projects in:
 </td>
 
 </tr>
-</table>
 
 ---
 
