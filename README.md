@@ -101,6 +101,51 @@ analysis with practical HR decision support.
 
 
 <h2>📂 Selected Projects</h2>
+<table>
+<tr>
+
+<td colspan="2" valign="top">
+
+<h3>🎯 Talent Acquisition Analytics — SQL + Power BI</h3>
+
+<a href="https://github.com/bhatubaid207-create/Talent-Acquisition-Analytics-SQL-PowerBI">
+  <img
+    src="https://raw.githubusercontent.com/bhatubaid207-create/Talent-Acquisition-Analytics-SQL-PowerBI/main/images/dashboard_overview.png"
+    width="100%"
+    alt="Talent Acquisition Analytics Dashboard"
+  />
+</a>
+
+<p>
+End-to-end <b>Talent Acquisition Analytics project</b> transforming
+15,000 ATS-style job applications into recruitment insights using
+<b>MySQL, SQL, and Power BI</b>.
+</p>
+
+<p>
+Analyzes <b>recruitment funnels, sourcing effectiveness, candidate
+characteristics, offer outcomes, and hiring efficiency</b>, supported
+by systematic SQL data-quality auditing and validated cycle-time metrics.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power%20BI-000000?style=flat-square&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Talent%20Acquisition-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Recruitment%20Analytics-000000?style=flat-square" />
+</p>
+
+<a href="https://github.com/bhatubaid207-create/Talent-Acquisition-Analytics-SQL-PowerBI">
+  <b>Explore Project →</b>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <table>
 <tr>
